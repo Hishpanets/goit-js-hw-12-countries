@@ -1,0 +1,29 @@
+.languages-list {
+  padding: 0;
+}
+
+.languages_item {
+  margin-left: 20px;
+}
+
+.country-flag {
+  width: 300px;
+  margin-left: 100px;
+}
+
+.country-name {
+  text-align: center;
+  width: fit-content;
+  display: flex;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.card-flex {
+  display: flex;
+  justify-content: flex-start;
+}
+
+#country-card {
+  width: fit-content;
+}
